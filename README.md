@@ -11,4 +11,8 @@
 - ReturnTo Behavior (redirecting a user back to wherever they were trying to go)
 
 How to run it:
-- npm i passport passport-local passport-local-mongoose
+
+- install node.js
+- install mongodb and run it in the background
+- npm init -y
+- npm install (to install all the dependencies at once)
